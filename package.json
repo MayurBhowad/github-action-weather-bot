@@ -10,9 +10,8 @@
     "dotenv": "^8.2.0",
     "node-fetch": "^2.6.1",
     "node-telegram-bot-api": "^0.40.0",
-    "telegram-bot-api": "^2.0.1"
-  },
-  "devDependencies": {
+    "telegram-bot-api": "^2.0.1",
     "jest": "^26.6.3"
-  }
+  },
+  "devDependencies": {}
 }
